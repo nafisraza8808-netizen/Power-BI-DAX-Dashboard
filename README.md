@@ -31,6 +31,4 @@ The objective of this project is to strengthen practical Data Analytics skills a
 ## Author
 Aspiring Junior Data Analyst
 
-## Dashboard Preview
-
-![Power BI Dashboard](Dashboard.png)
+![Power BI Dashboard](Screenshot%202026-11-26%20141128.png)
